@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wilbert
 - 👀 I’m interested in DevOps technologies and tools
-- 🌱 I’m currently learning AWS DevOps
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any devops project to help and learn new things.
 - 📫 How to reach me w_iglesias@msn.com
 
