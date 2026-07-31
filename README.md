@@ -6,6 +6,10 @@
 
 📍 Montevideo, Uruguay &nbsp;|&nbsp; 🟢 Open to collaborate
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wiglesias)
+
 </div>
 
 ---
@@ -13,10 +17,10 @@
 ### About me
 
 - 🔭 I work on cloud & on-premises infrastructure, automation, and monitoring
-- 🌱 Currently sharpening my skills in Kubernetes, Ansible, and Terraform
+- 🌱 Currently sharpening my skills in Kubernetes
 - 🏠 I run a home lab: self-hosted DNS and network monitoring on ARM64 hardware (Raspberry Pi / Orange Pi), plus Kubernetes on a local dev VM
 - 💞️ Looking to collaborate on DevOps, infrastructure-as-code, and observability projects
-- 📫 Reach me at w_iglesias@msn.com
+- 📫 Reach me at w_iglesias@msn.com or on [LinkedIn](https://linkedin.com/in/wiglesias)
 
 ---
 
@@ -90,3 +94,6 @@ A few repos on my profile are hands-on course material and reference forks I kee
 
 ---
 
+<div align="center">
+💬 Ask me about Ansible automation, self-hosted infrastructure, or DevOps on Azure/AWS
+</div>
