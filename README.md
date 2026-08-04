@@ -72,7 +72,7 @@ End-to-end IaC project: **Terraform** provisions the Azure resources (VNet, VM, 
 `Terraform` `Ansible` `Azure` `AKS` `Podman` `Grafana`
 
 #### 🇺🇾 [digito_cedula](https://github.com/LaTola/digito_cedula)
-A Python library and CLI that calculates the check digit for Uruguayan *Cédula de Identidad* numbers — handles multiple input formats, validates length, and ships with unit tests.
+A Python library and CLI that calculates the check digit for Uruguayan *Cédula de Identidad* numbers — handles multiple input formats, validates length, and ships with unit tests (playground project abandoned).
 
 `Python` `CLI` `Unit Testing`
 
